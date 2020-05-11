@@ -1,0 +1,97 @@
+@media (min-width: 1200px) {
+	.container-big{
+		max-width: 1280px;
+	}
+}
+
+
+
+#influence h1{
+    
+    line-height: 1.5;
+    font-family: Semplicita Pro,Open Sans,Arial,Helvetica,sans-serif;
+	font-size:51px;
+    color: #fff;
+    text-shadow: 0 0 1px transparent, 0 1px 2px rgba(0,0,0,.8);
+    font-weight: 700;
+	text-align:right;
+	padding-top:12px;
+}
+#influence{
+	
+    background-color: red;
+    background-image: url("https://bnetcmsus-a.akamaihd.net/cms/template_resource/RLMC87YA66JR1552926015954.jpg");
+    background-size: cover;
+    background-position: 50% 50%;
+	height: 480px;
+}
+
+
+
+
+#influence h2{
+	color: #ebdec2;
+	font-family: Open Sans,Arial,Helvetica,sans-serif;
+	font-size:17px;
+	font-weight:400;
+	text-transform: uppercase;
+	padding-top:80px;
+	text-align:right;
+}
+
+	#influence p
+{
+    font-family: Open Sans,Arial,Helvetica,sans-serif;
+    color: #ebdec2;
+    font-weight: 400;
+    font-size: 18px;
+    margin-bottom: 20px;
+    text-align: right;
+    padding-top: 40px
+
+}
+
+
+#influence a
+{
+    display: inline-block;
+    cursor: pointer;
+    text-decoration: none;
+    text-align: center;
+    -webkit-user-select: none;
+    -moz-user-select: none;
+    -ms-user-select: none;
+    user-select: none;
+    margin-bottom: 25px;
+    padding: 0;
+    -webkit-box-shadow: none;
+    box-shadow: none;
+    -webkit-appearance: none;
+    -moz-appearance: none;
+    appearance: none;
+    border: none;
+     padding: 12px 30px;
+    font-size: 1.08rem;
+    line-height: 1.5;
+    font-weight: 400;
+    background: rgba(0,0,0,.4);
+    border: 1px solid #f7b10a;
+    color: #f7b10a;
+    min-width: 180px;
+    text-transform: uppercase;
+    -webkit-transition: .2s,color .2s;
+    transition: .2s,color .2s;
+    position: relative;
+    z-index: 1;
+    margin-top:40px
+}
+#influence a:hover 
+{
+    background-color: #b06716;
+    color: white;
+}
+
+
+
+
+
