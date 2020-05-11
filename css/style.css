@@ -32,10 +32,10 @@
 #influence h2{
 	color: #ebdec2;
 	font-family: Open Sans,Arial,Helvetica,sans-serif;
-	font-size:17px;
+	font-size:20px;
 	font-weight:400;
 	text-transform: uppercase;
-	padding-top:80px;
+	padding-top:10px;
 	text-align:right;
 }
 
@@ -44,10 +44,10 @@
     font-family: Open Sans,Arial,Helvetica,sans-serif;
     color: #ebdec2;
     font-weight: 400;
-    font-size: 18px;
+    font-size: 21px;
     margin-bottom: 20px;
     text-align: right;
-    padding-top: 40px
+    padding-top: 20px
 
 }
 
@@ -56,21 +56,10 @@
 {
     display: inline-block;
     cursor: pointer;
-    text-decoration: none;
     text-align: center;
-    -webkit-user-select: none;
-    -moz-user-select: none;
-    -ms-user-select: none;
-    user-select: none;
     margin-bottom: 25px;
     padding: 0;
-    -webkit-box-shadow: none;
-    box-shadow: none;
-    -webkit-appearance: none;
-    -moz-appearance: none;
-    appearance: none;
-    border: none;
-     padding: 12px 30px;
+     padding:17px 60px;
     font-size: 1.08rem;
     line-height: 1.5;
     font-weight: 400;
@@ -83,7 +72,7 @@
     transition: .2s,color .2s;
     position: relative;
     z-index: 1;
-    margin-top:40px
+    margin-top:60px
 }
 #influence a:hover 
 {
@@ -92,6 +81,122 @@
 }
 
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+#avenement h1{
+    
+    line-height: 1.5;
+    font-family: Semplicita Pro,Open Sans,Arial,Helvetica,sans-serif;
+	font-size:51px;
+    color: #fff;
+    text-shadow: 0 0 1px transparent, 0 1px 2px rgba(0,0,0,.8);
+    font-weight: 700;
+	text-align:left;
+	padding-top:12px;
+}
+#avenement{
+	
+    background-color: red;
+    background-image: url("https://bnetcmsus-a.akamaihd.net/cms/template_resource/LU2VY3R9P1L01586989638352.jpg");
+    background-size: cover;
+    background-position: 50% 50%;
+	height: 480px;
+}
+
+
+
+
+#avenement h2{
+	color: #ebdec2;
+	font-family: Open Sans,Arial,Helvetica,sans-serif;
+	font-size:20px;
+	font-weight:400;
+	text-transform: uppercase;
+	padding-top:10px;
+	text-align:left;
+}
+
+	#avenement p
+{
+    font-family: Open Sans,Arial,Helvetica,sans-serif;
+    color: #ebdec2;
+    font-weight: 400;
+    font-size: 21px;
+    margin-bottom: 20px;
+    
+    padding-top: 20px;
+
+}
+
+
+#avenement a
+{
+    display: inline-block;
+    cursor: pointer;
+    text-align: center;
+    margin-bottom: 25px;
+    padding: 0;
+     padding:17px 60px;
+    font-size: 1.08rem;
+    line-height: 1.5;
+    font-weight: 400;
+    background: rgba(0,0,0,.4);
+    border: 1px solid #f7b10a;
+    color: #f7b10a;
+    min-width: 180px;
+    text-transform: uppercase;
+    -webkit-transition: .2s,color .2s;
+    transition: .2s,color .2s;
+    position: relative;
+    z-index: 1;
+    margin-top:60px;
+}
+#avenement a:hover 
+{
+    background-color: #b06716;
+    color: white;
+}
+
+
+#avenement b
+{
+    display: inline-block;
+    cursor: pointer;
+    text-align: center;
+    margin-bottom: 25px;
+    padding: 0;
+     padding:17px 60px;
+    font-size: 1.08rem;
+    line-height: 1.5;
+    font-weight: 400;
+    background-color: rgba(159, 22, 0, 0.6);
+    border: 1px solid #ea3012;
+    color: #f7b10a;
+    min-width: 180px;
+    text-transform: uppercase;
+    -webkit-transition: .2s,color .2s;
+    transition: .2s,color .2s;
+    position: relative;
+    z-index: 1;
+    margin-top:60px;
+}
+#avenement b:hover 
+{
+    background-color: #9f1600;
+    color: #b06716;
+}
 
 
 
